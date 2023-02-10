@@ -10,7 +10,7 @@
 
 <body>
     <h1>Registration Form</h1>
-    <form action="welcome.php" method="post" id="reg-form">
+    <form>
         <p>
             <label>First Name</label>
             <input type="text" name="first_name" required="required" />
